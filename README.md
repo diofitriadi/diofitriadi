@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diofitriadi
 - 👀 I’m interested in : Front-End Web Development
-- 🌱 I’m currently learning : Express Js and MySQL
+- 🌱 I’m currently learning : Express Js and MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : fitriadidio@gmail.com
 
